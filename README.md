@@ -1,0 +1,2 @@
+# jscourse
+for learning js
